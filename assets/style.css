@@ -1,0 +1,33 @@
+
+
+.container{
+    width:100%;
+}
+.jumbotron{
+    /* background-color: #F1EAC5; */
+    background-image: url("http://www.nationalgeographicexpeditions.com/assets/images/5129/hero-interior.jpg");
+    
+    height: 450px;
+    
+}
+
+.tableContainer{
+    border: 1px solid black;
+    margin-top: 30px;
+    padding: px;
+}
+
+
+.formContainer{
+ border: 1px solid black;
+ margin-top: 30px;
+ padding: 20px;
+}
+
+.display-3{
+    color: #B52806;
+    margin-top: 300px;
+    font-size: 80px;
+    font-weight: bold;
+}
+
